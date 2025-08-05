@@ -1,16 +1,31 @@
-## Hi there 👋
+# hi, im Ish
 
-<!--
-**Dem1241/Dem1241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im a business informatics student exploring the world of tech from multiple angles — including data, backend development, cloud systems, and cybersecurity. im interested in how systems work, how they scale, and how they can be built to solve real problems.
 
-Here are some ideas to get you started:
+this space is where i document, share, and build what i learn. hopefully my journey can be beneficial for others as well ^^
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## interests
+
+- Backend development and system design  
+- Data pipelines, streaming, and real-time architectures  
+- Databases, cloud infrastructure, and distributed systems  
+- Security concepts and automation  
+- Data science, analysis, and tools for decision-making  
+
+## what im doing
+
+- Learning by building and experimenting  
+- Writing clear, practical code  
+- Sharing templates, walkthroughs, and tools  
+- Slowly contributing to open-source where i can  
+
+## goals
+
+- Build and share things that are useful to others  
+- Keep improving and learning across different domains  
+- Collaborate with developers, researchers, and engineers  
+- Stay curious and open to where this path leads  
+
+## connect
+ 
+- LinkedIn: [linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/ismail-bilkay-164175286/)
