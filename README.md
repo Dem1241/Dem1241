@@ -28,4 +28,4 @@ this space is where i document, share, and build what i learn. hopefully my jour
 
 ## connect
  
-- LinkedIn: [linkedin.com/in/ismail-bilkay](https://www.linkedin.com/in/ismail-bilkay-164175286/)
+- LinkedIn: [linkedin.com/in/ish](https://www.linkedin.com/in/ismail-bilkay-164175286/)
