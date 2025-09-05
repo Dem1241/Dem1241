@@ -1,4 +1,4 @@
-# hi, im Ish
+# hi, im ish
 
 im a business informatics student exploring the world of tech from multiple angles including data, backend development, cloud systems, and cybersecurity. im interested in how systems work, how they scale, and how they can be built to solve real problems.
 
