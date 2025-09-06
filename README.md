@@ -25,7 +25,3 @@ this space is where i document, share, and build what i learn. hopefully my jour
 - Keep improving and learning across different domains  
 - Collaborate with developers, researchers, and engineers  
 - Stay curious and open to where this path leads  
-
-## connect
- 
-- LinkedIn: [linkedin.com/in/ish](https://www.linkedin.com/in/ismail-bilkay-164175286/)
