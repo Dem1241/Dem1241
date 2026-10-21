@@ -22,6 +22,7 @@ useful for others too ^^
 
 ### ⋆ things i made
 
+- [**puddle**](https://github.com/Dem1241/puddle) · watch kafka and redpanda topics in the terminal, with debezium changes shown field by field `go`
 - [**go-cdc-lab**](https://github.com/Dem1241/go-cdc-lab) · change data capture playground with postgres, debezium and redpanda `go`
 - [**pg-mcp-live**](https://github.com/Dem1241/pg-mcp-live) · read-only mcp server for postgres with schemas, safe selects and query plans `typescript`
 - [**harbor-scanner**](https://github.com/Dem1241/harbor-scanner) · push images to harbor, trigger vulnerability scans and export the reports `go`
