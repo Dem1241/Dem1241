@@ -23,11 +23,21 @@ useful for others too ^^
 ### ⋆ things i made
 
 - [**puddle**](https://github.com/Dem1241/puddle) · watch kafka and redpanda topics in the terminal, with debezium changes shown field by field `go`
+- [**difftest**](https://github.com/Dem1241/difftest) · send the same random sql to dolt's engine and to mysql and report every answer that differs `go`
 - [**go-cdc-lab**](https://github.com/Dem1241/go-cdc-lab) · change data capture playground with postgres, debezium and redpanda `go`
 - [**pg-mcp-live**](https://github.com/Dem1241/pg-mcp-live) · read-only mcp server for postgres with schemas, safe selects and query plans `typescript`
 - [**harbor-scanner**](https://github.com/Dem1241/harbor-scanner) · push images to harbor, trigger vulnerability scans and export the reports `go`
 - [**mariadbmanagement**](https://github.com/Dem1241/mariadbmanagement) · run and manage several mariadb instances in docker `python`
 - [**weight**](https://github.com/Dem1241/weight) · track your body weight in the terminal and watch the weekly average, not the daily noise `go`
+
+### ⋆ open source contributions
+
+mostly bug fixes in sql engines and database tools, each with a test and checked against the real database
+
+- [**dolthub/go-mysql-server#4059**](https://github.com/dolthub/go-mysql-server/pull/4059) · `sql_select_limit` was ignored for simple selects and `DISTINCT`
+- [**dolthub/go-mysql-server#4062**](https://github.com/dolthub/go-mysql-server/pull/4062) · `LEFT JOIN LATERAL` with a filter on the outer row failed to plan
+
+<sub>more on the way for dolt, doltgresql, pgroll, redpanda connect, dbmate, goose and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
 ### ⋆ toolbox
 
