@@ -24,6 +24,7 @@ useful for others too ^^
 
 - [**puddle**](https://github.com/Dem1241/puddle) · watch kafka and redpanda topics in the terminal, with debezium changes shown field by field `go`
 - [**slotwatch**](https://github.com/Dem1241/slotwatch) · watch postgres replication slots and catch the one quietly filling your disk with WAL `go`
+- [**connectwatch**](https://github.com/Dem1241/connectwatch) · watch kafka connect connectors, see why a task failed and restart it `go`
 - [**difftest**](https://github.com/Dem1241/difftest) · send the same random sql to dolt's engine and to mysql and report every answer that differs `go`
 - [**go-cdc-lab**](https://github.com/Dem1241/go-cdc-lab) · change data capture playground with postgres, debezium and redpanda `go`
 - [**pg-mcp-live**](https://github.com/Dem1241/pg-mcp-live) · read-only mcp server for postgres with schemas, safe selects and query plans `typescript`
