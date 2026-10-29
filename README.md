@@ -38,6 +38,7 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 
 - [**dolthub/go-mysql-server#4059**](https://github.com/dolthub/go-mysql-server/pull/4059) · `sql_select_limit` was ignored for simple selects and `DISTINCT`
 - [**dolthub/go-mysql-server#4062**](https://github.com/dolthub/go-mysql-server/pull/4062) · `LEFT JOIN LATERAL` with a filter on the outer row failed to plan
+- [**dolthub/go-mysql-server#4061**](https://github.com/dolthub/go-mysql-server/pull/4061) · correlated subqueries with a window function or `LIMIT` only saw the one looked up row
 
 <sub>more on the way for dolt, doltgresql, pgroll, redpanda connect, dbmate, goose and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
