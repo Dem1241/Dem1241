@@ -2,7 +2,7 @@
   <img src="assets/cat-banner.png" alt="a pixel-art white cat in a pink raincoat hood in the rain, next to the text hi, im ish" width="100%">
 </p>
 
-im a student and data is my thing. not just queries, but whole data
+im a student and im kinda obsessed with data. not just queries, but whole data
 platforms and the infrastructure underneath, from ingestion and change data
 capture to streaming, storage and the kubernetes clusters it all runs on.
 im curious about how systems work, how they scale, and how to build them so
