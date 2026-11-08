@@ -42,6 +42,8 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 - [**apache/iceberg-go#2368**](https://github.com/apache/iceberg-go/pull/2368) · partitioned writes ignored the object storage partitioned-paths setting
 - [**influxdata/telegraf#19972**](https://github.com/influxdata/telegraf/pull/19972) · postgresql output kept a stale table cache after a rolled back write
 - [**influxdata/telegraf#20026**](https://github.com/influxdata/telegraf/pull/20026) · disk buffer mask wasn't shifted by the number of truncated entries
+- [**amacneil/dbmate#869**](https://github.com/amacneil/dbmate/pull/869) · a byte order mark at the start of a migration hid the `-- migrate:up` marker
+- [**charm-and-friends/charm-in-the-wild#150**](https://github.com/charm-and-friends/charm-in-the-wild/pull/150) · got slotwatch and connectwatch listed among the projects built with charm's libraries
 
 <sub>more on the way for dolt, doltgresql, pgroll, telegraf, iceberg-go, redpanda connect, dbmate, goose and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
