@@ -44,6 +44,8 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 - [**influxdata/telegraf#20026**](https://github.com/influxdata/telegraf/pull/20026) · disk buffer mask wasn't shifted by the number of truncated entries
 - [**amacneil/dbmate#869**](https://github.com/amacneil/dbmate/pull/869) · a byte order mark at the start of a migration hid the `-- migrate:up` marker
 - [**charm-and-friends/charm-in-the-wild#150**](https://github.com/charm-and-friends/charm-in-the-wild/pull/150) · got slotwatch and connectwatch listed among the projects built with charm's libraries
+- [**benbjohnson/litestream#1606**](https://github.com/benbjohnson/litestream/pull/1606) · an idle follower listed all nine ltx levels every tick instead of one
+- [**deviceinsight/kafkactl#353**](https://github.com/deviceinsight/kafkactl/pull/353) · `consume -o yaml` had no document separators, so `yq` only saw the last message
 
 <sub>more on the way for dolt, doltgresql, pgroll, telegraf, iceberg-go, redpanda connect, dbmate, goose and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
