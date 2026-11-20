@@ -46,6 +46,7 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 - [**charm-and-friends/charm-in-the-wild#150**](https://github.com/charm-and-friends/charm-in-the-wild/pull/150) · got slotwatch and connectwatch listed among the projects built with charm's libraries
 - [**benbjohnson/litestream#1606**](https://github.com/benbjohnson/litestream/pull/1606) · an idle follower listed all nine ltx levels every tick instead of one
 - [**deviceinsight/kafkactl#353**](https://github.com/deviceinsight/kafkactl/pull/353) · `consume -o yaml` had no document separators, so `yq` only saw the last message
+- [**deviceinsight/kafkactl#367**](https://github.com/deviceinsight/kafkactl/pull/367) · `-C` with a config file still used the context saved in `~/.config/kafkactl`, so commands failed with `no context with name default found`
 
 <sub>more on the way for dolt, doltgresql, pgroll, telegraf, iceberg-go, redpanda connect, dbmate, goose and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
