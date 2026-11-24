@@ -26,6 +26,7 @@ useful for others too ^^
 - [**slotwatch**](https://github.com/Dem1241/slotwatch) · watch postgres replication slots and catch the one quietly filling your disk with WAL `go`
 - [**connectwatch**](https://github.com/Dem1241/connectwatch) · watch kafka connect connectors, see why a task failed and restart it `go`
 - [**difftest**](https://github.com/Dem1241/difftest) · send the same random sql to dolt's engine and to mysql and report every answer that differs `go`
+- [**prwatch**](https://github.com/Dem1241/prwatch) · see which of your open github prs are waiting on you and which on a maintainer `go`
 - [**go-cdc-lab**](https://github.com/Dem1241/go-cdc-lab) · change data capture playground with postgres, debezium and redpanda `go`
 - [**pg-mcp-live**](https://github.com/Dem1241/pg-mcp-live) · read-only mcp server for postgres with schemas, safe selects and query plans `typescript`
 - [**harbor-scanner**](https://github.com/Dem1241/harbor-scanner) · push images to harbor, trigger vulnerability scans and export the reports `go`
@@ -48,7 +49,7 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 - [**deviceinsight/kafkactl#353**](https://github.com/deviceinsight/kafkactl/pull/353) · `consume -o yaml` had no document separators, so `yq` only saw the last message
 - [**deviceinsight/kafkactl#367**](https://github.com/deviceinsight/kafkactl/pull/367) · `-C` with a config file still used the context saved in `~/.config/kafkactl`, so commands failed with `no context with name default found`
 
-<sub>more on the way for dolt, doltgresql, pgroll, telegraf, iceberg-go, redpanda connect, dbmate, goose and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
+<sub>more on the way for dolt, telegraf, cloudnative-pg, pgroll, redpanda connect, goose, spanner and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
 ### ⋆ toolbox
 
