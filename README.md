@@ -51,7 +51,7 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 - [**influxdata/telegraf#20090**](https://github.com/influxdata/telegraf/pull/20090) · `postgresql_extensible` fell back to version 0 when it couldn't read the server version, so version-gated queries ran against newer postgres and failed with `column p.num_dead_tuples does not exist`
 - [**influxdata/telegraf#20201**](https://github.com/influxdata/telegraf/pull/20201) · moved two `postgresql_extensible` tests that silently hit localhost:5432 onto a test container
 
-<sub>more on the way for dolt, telegraf, cloudnative-pg, pgroll, redpanda connect, goose, spanner and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
+<sub>more on the way for dolt, cloudnative-pg, pgroll, redpanda connect, goose, spanner and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
 ### ⋆ toolbox
 
