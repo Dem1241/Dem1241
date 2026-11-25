@@ -48,6 +48,8 @@ mostly bug fixes in sql engines and database tools, each with a test and checked
 - [**benbjohnson/litestream#1606**](https://github.com/benbjohnson/litestream/pull/1606) · an idle follower listed all nine ltx levels every tick instead of one
 - [**deviceinsight/kafkactl#353**](https://github.com/deviceinsight/kafkactl/pull/353) · `consume -o yaml` had no document separators, so `yq` only saw the last message
 - [**deviceinsight/kafkactl#367**](https://github.com/deviceinsight/kafkactl/pull/367) · `-C` with a config file still used the context saved in `~/.config/kafkactl`, so commands failed with `no context with name default found`
+- [**influxdata/telegraf#20090**](https://github.com/influxdata/telegraf/pull/20090) · `postgresql_extensible` fell back to version 0 when it couldn't read the server version, so version-gated queries ran against newer postgres and failed with `column p.num_dead_tuples does not exist`
+- [**influxdata/telegraf#20201**](https://github.com/influxdata/telegraf/pull/20201) · moved two `postgresql_extensible` tests that silently hit localhost:5432 onto a test container
 
 <sub>more on the way for dolt, telegraf, cloudnative-pg, pgroll, redpanda connect, goose, spanner and others, see [all my prs](https://github.com/search?q=author%3ADem1241+is%3Apr&type=pullrequests)</sub>
 
